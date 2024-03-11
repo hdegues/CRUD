@@ -1,7 +1,7 @@
 {
-    "name": "backpack/crud",
+    "name": "hdegues/crud",
     "type": "library",
-    "description": "Quickly build admin interfaces using Laravel, Bootstrap and JavaScript.",
+    "description": "Fork backpackfor Crud  - Quickly build admin interfaces using Laravel, Bootstrap and JavaScript.",
     "keywords": [
         "backpack",
         "base",
@@ -24,7 +24,7 @@
         "content management system",
         "content management framework"
     ],
-    "homepage": "https://github.com/laravel-backpack/CRUD",
+    "homepage": "https://github.com/hdegues/CRUD",
     "license": "MIT",
     "authors": [
         {
